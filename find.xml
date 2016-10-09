@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'doroob-android'" />
-    <option name="defaultScopeName" value="Project 'doroob-android'" />
-    <option name="SEARCH_SCOPE" value="Project 'doroob-android'" />
+    <option name="customScope" value="File '/Users/ferdous/projects/doroob/apps/doroob-android/fastlane/Fastfile'" />
+    <option name="defaultScopeName" value="File '/Users/ferdous/projects/doroob/apps/doroob-android/fastlane/Fastfile'" />
+    <option name="SEARCH_SCOPE" value="File '/Users/ferdous/projects/doroob/apps/doroob-android/fastlane/Fastfile'" />
   </component>
 </application>
