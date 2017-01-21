@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
     <option name="caseSensitive" value="true" />
-    <option name="customScope" value="File '/Users/ferdous/projects/doroob/apps/doroob-android/fastlane/Fastfile'" />
-    <option name="defaultScopeName" value="File '/Users/ferdous/projects/doroob/apps/doroob-android/fastlane/Fastfile'" />
+    <option name="customScope" value="Directory '/Users/ferdous/projects/dynamicguy/khujun-android/app'" />
+    <option name="defaultScopeName" value="Directory '/Users/ferdous/projects/dynamicguy/khujun-android/app'" />
     <option name="localCaseSensitive" value="true" />
     <option name="localWholeWordsOnly" value="true" />
     <option name="wholeWordsOnly" value="true" />
@@ -10,7 +10,7 @@
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
-    <option name="SEARCH_SCOPE" value="File '/Users/ferdous/projects/doroob/apps/doroob-android/fastlane/Fastfile'" />
+    <option name="SEARCH_SCOPE" value="Directory '/Users/ferdous/projects/dynamicguy/khujun-android/app'" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
