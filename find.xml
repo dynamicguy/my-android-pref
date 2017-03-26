@@ -3,6 +3,7 @@
     <option name="customScope" value="Directory '/Users/ferdous/projects/dynamicguy/khujun-android/app'" />
     <option name="defaultScopeName" value="Directory '/Users/ferdous/projects/dynamicguy/khujun-android/app'" />
     <option name="SEARCH_SCOPE" value="Directory '/Users/ferdous/projects/dynamicguy/khujun-android/app'" />
+    <option name="FILE_MASK" value="build.gradle" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
